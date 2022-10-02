@@ -48,8 +48,8 @@ The metric that I would like to test to compare against the competition would be
   - <b>Null Hypothesis:</b> There is no statistical difference in the mean city or highway fuel efficiency between the MechaCar and its competitors.
   - <b>Alternate Hypothesis:</b> There is a statistical difference in the mean city or highway fuel efficiency between the MechaCar and its competitors.
 
-- <b>What statistical test would you use to test the hypothesis? And why?<b></br>
+- <b>What statistical test would you use to test the hypothesis? And why?</b></br>
 As MechaCar and our competitor are considered independent variables and the city or highway fuel effeciency is a dependent variable, it is best to use a two-sample T-Test.
   
-- <b>What data is needed to run the statistical test?<b></br>
-City or highway fuel efficiency can be measured by calculating how many miles are driven per gallon of fuel. Consumers are looking to compare which of the competitors has the best and highest MPG.
+- <b>What data is needed to run the statistical test?</b></br>
+City or highway fuel efficiency can be measured by calculating how many miles are driven per gallon of fuel and would need to be collected by MechaCar and our competitor. Consumers are looking to compare which of the competitors has the best and highest MPG.
